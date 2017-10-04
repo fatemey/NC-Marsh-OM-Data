@@ -6,4 +6,4 @@ The data include:
 
 Distance of core positions to marsh channel, relative elevation of soil surface to MSL, organic matter percent, organic matter density.
 
-
+ 
